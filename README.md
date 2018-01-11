@@ -104,14 +104,13 @@ a | b
 ```
 If you want to embed images, this is how you do it:
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Image of Optimus Prime](https://avatars2.githubusercontent.com/u/26652045?s=400&v=4)
 
 ```javascript
 ++++++++++++++++++++++++++++
 ++++  HEADERS & QUOTAS  ++++
 ++++++++++++++++++++++++++++
 ```
-```-----------------------------------------------------------------------------------------------```
 
 # Structured documents
 
@@ -168,6 +167,7 @@ But I have to admit, tasks lists are my favorite:
 - [x] this is a complete item
 - [ ] this is an incomplete item
 
-And, of course emoji! :sparkles: :camel: :boom: :kissing_heart: :sweat_smile: :sunglasses: :earth_africa: :earth_americas: :earth_asia:
+And, of course emoji! 
+:sparkles: :camel: :boom: :kissing_heart: :sweat_smile: :sunglasses: :earth_africa: :earth_americas: :earth_asia:
 
 :waxing_crescent_moon:  :first_quarter_moon:  :waxing_gibbous_moon:  :sunglasses:  :waning_gibbous_moon:  :last_quarter_moon:  :waning_crescent_moon:
