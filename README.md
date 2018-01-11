@@ -1,11 +1,4 @@
 ```javascript
-+++++++++++++++++++
-++++  SPOILER  ++++
-+++++++++++++++++++
-```
-:waxing_crescent_moon:  :first_quarter_moon:  :waxing_gibbous_moon:  :sunglasses:  :waning_gibbous_moon:  :last_quarter_moon:  :waning_crescent_moon:
-
-```javascript
 +++++++++++++++++
 ++++  TEXTS  ++++
 +++++++++++++++++
@@ -176,3 +169,5 @@ But I have to admit, tasks lists are my favorite:
 - [ ] this is an incomplete item
 
 And, of course emoji! :sparkles: :camel: :boom: :kissing_heart: :sweat_smile: :sunglasses: :earth_africa: :earth_americas: :earth_asia:
+
+:waxing_crescent_moon:  :first_quarter_moon:  :waxing_gibbous_moon:  :sunglasses:  :waning_gibbous_moon:  :last_quarter_moon:  :waning_crescent_moon:
