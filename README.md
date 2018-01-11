@@ -41,7 +41,7 @@ Equals sign, `====` becomes:
 
 Also with dash and equals sign, if you don't put space between characters and upper line:
 
-It becomes dashed title
+It becomes Big title with a line
 ---
 
 ```javascript
