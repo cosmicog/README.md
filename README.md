@@ -92,10 +92,10 @@ Alternatively,
 You can create tables by assembling a list of words and dividing them with hyphens `-` (for the first row), and then separating each column with a pipe `|`:
 
 First Header | Second Header
------------- | -------------
+--- | ---
 Content from cell 1 | Content from cell 2
 Content in the first column | Content in the second column
-a | b
+abcdefg | hijklmn
 
 ```javascript
 ++++++++++++++++++
@@ -168,6 +168,7 @@ But I have to admit, tasks lists are my favorite:
 - [ ] this is an incomplete item
 
 And, of course emoji! 
+
 :sparkles: :camel: :boom: :kissing_heart: :sweat_smile: :sunglasses: :earth_africa: :earth_americas: :earth_asia:
 
 :waxing_crescent_moon:  :first_quarter_moon:  :waxing_gibbous_moon:  :sunglasses:  :waning_gibbous_moon:  :last_quarter_moon:  :waning_crescent_moon:
