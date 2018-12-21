@@ -14,7 +14,7 @@ __This will also be bold__
 
 _You **can** combine them_
 
-~~this~~ will appear crossed out.
+~~this will appear crossed out.~~
 
 It's very easy to make some words **bold** and other words *italic* with Markdown. You can even [link to Google!](http://google.com)
 ```javascript
